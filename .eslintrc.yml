@@ -1,0 +1,9 @@
+---
+extends: airbnb-base
+rules:
+  quotes: ["error", "double"]
+  arrow-body-style: ["error", "always"]
+  implicit-arrow-linebreak: "off"
+  object-curly-newline: "off"
+  operator-linebreak: "off"
+  comma-dangle: "off"
